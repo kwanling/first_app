@@ -1,0 +1,29 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2C2E-CC25
+
+ Directory of C:\TestRails\sample_app
+
+04/05/2012  11:42 PM    <DIR>          .
+04/05/2012  11:42 PM    <DIR>          ..
+24/04/2012  01:54 PM    <DIR>          .bundle
+24/04/2012  01:52 PM               430 .gitignore
+24/04/2012  01:58 PM                 9 .rspec
+04/05/2012  11:42 PM                 0 a.txt
+24/04/2012  01:52 PM    <DIR>          app
+24/04/2012  01:52 PM    <DIR>          config
+24/04/2012  01:52 PM               159 config.ru
+24/04/2012  01:52 PM    <DIR>          db
+24/04/2012  01:52 PM    <DIR>          doc
+24/04/2012  01:53 PM               455 Gemfile
+24/04/2012  01:57 PM             3,506 Gemfile.lock
+24/04/2012  01:52 PM    <DIR>          lib
+24/04/2012  01:58 PM    <DIR>          log
+24/04/2012  01:52 PM    <DIR>          public
+24/04/2012  01:52 PM               274 Rakefile
+04/05/2012  11:39 PM                39 README.md
+24/04/2012  01:52 PM    <DIR>          script
+24/04/2012  01:58 PM    <DIR>          spec
+24/04/2012  01:52 PM    <DIR>          tmp
+24/04/2012  01:52 PM    <DIR>          vendor
+               8 File(s)          4,872 bytes
+              14 Dir(s)  435,815,387,136 bytes free
